@@ -1,0 +1,18 @@
+{
+  "author": "Rehno Lindeque <code@rehno.lindeque.name> (http://rehno.lindeque.name)",
+  "name": "adt-svg.js",
+  "description": "Treat SVG like any old Algebraic Data Type",
+  "version": "0.0.0",
+  "homepage": "https://github.com/rehno-lindeque/adt-svg.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rehno-lindeque/adt-svg.js.git"
+  },
+  "main": "./dist/adt-svg",
+  "engines": {},
+  "dependencies": {
+    "adt.js": "git+https://github.com/rehno-lindeque/adt.js.git#master"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
